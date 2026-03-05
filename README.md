@@ -5,7 +5,7 @@ In this section, I won't dive into the heavy details—like specific conditionin
 Instead, the focus is on the underlying mechanism that makes LDM so efficient.
 
 For the diffusion process, I implemented both DDPM and DDIM. 
-You can explore the theoretical deep dives and the "Delivery Man" narrative in my [Medium Post (Link)].
+You can explore the theoretical deep dives and the "Delivery Man" narrative in my [[Medium Post (Link)](https://medium.com/p/ac9184315c16?postPublishedType=initial)].
 In this repository, you can explore the qualitative performance gap between a standard VAE and the Latent Diffusion Model (LDM). 
 
 I provided a comprehensive comparison through three distinct lenses:
